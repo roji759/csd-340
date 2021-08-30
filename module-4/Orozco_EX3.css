@@ -37,7 +37,8 @@ ul{
     border-style:dashed;
     border-color:red;
     border-radius:15px;
-    list-style-type:style upper-roman ro;
+    list-style:inside;
+    list-style-type:upper-roman;
     padding:10px;
 }
 
