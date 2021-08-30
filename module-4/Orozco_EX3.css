@@ -1,5 +1,5 @@
 h1{
-    margin:auto;
+    text-align:center;
     
     font-family:Oswald, Verdana, Arial, sans-serif;
 }
@@ -8,6 +8,10 @@ h1{
     font-family:Oswald, Verdana, Arial, sans-serif;
     width:45%;
     float:left;
+    border-width:1px;
+    border-style:dashed;
+    border-color:red;
+    border-radius:15px;
 }
 
 #filler{
@@ -24,19 +28,13 @@ ol,ul{
 }
 
 ol{
-    border-color:red;
-    border-style:solid;
-    border-width:1px;
-    border-radius:15px;
+    
     list-style:inside;
     padding:10px;
 }
 
 ul{
-    border-width:1px;
-    border-style:dashed;
-    border-color:red;
-    border-radius:15px;
+    
     list-style:inside;
     list-style-type:upper-roman;
     padding:10px;
