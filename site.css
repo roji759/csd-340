@@ -1,0 +1,31 @@
+body{
+    font-family: Oswald, Verdana, Arial, sans-serif;
+}
+
+#container{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1, h2, h3, h4{
+    background-color: turquoise ;
+    color: black;
+    border-color:#D6A800;
+    border-width: 1px;
+    padding: 10px;  
+}
+
+a:link{
+    color: #fa3aaa;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:  underline;
+    background-color: #e8f53a;
+}
+
+a:visited{
+    text-decoration-color: rgb(165, 20, 209);
+    text-decoration: underline;
+}
